@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 html {
 background-color: #5B6773;
 }
@@ -22,4 +23,11 @@ transition: background-color 500ms, color 500ms;
 #note:hover {
 background-color: #F5D74F;
 color: black;
+=======
+div {
+font-family: Open Sans;
+width: 200px;
+height: 200px;
+background-color: red;
+>>>>>>> 8931668ed397dc8b3f24c331e0e7f36addca2576
 }
