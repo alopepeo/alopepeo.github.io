@@ -1,6 +1,6 @@
 <h2>Ardesign</h2>
 
-Site focused on unifying different projects mockups.
+Site focused on unifying mockups for different projects
 
 <h2>Current status</h2>
 
