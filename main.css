@@ -1,24 +1,25 @@
 html {
-background-color: #5B6773;
+  background-color: #5B6773;
 }
 #note {
-font-family: Open Sans;
-font-size: 16px;
-position: fixed;
-top: 50%;
-left: 50%;
-height: 70px;
-width: 260px;
-margin-top: -141px;
-margin-left: -142px;
-text-align: center;
-border-radius: 1000px;
-background-color: #EC5C4D;
-padding: 106px 12px;
-color: white;
-transition: background-color 500ms, color 500ms;
+  font-family: Open Sans;
+  font-size: 16px;
+  position: fixed;
+  top: 50%;
+  left: 50%;
+  height: 70px;
+  width: 260px;
+  margin-top: -141px;
+  margin-left: -142px;
+  text-align: center;
+  border-radius: 1000px;
+  background-color: #EC5C4D;
+  padding: 106px 12px;
+  color: white;
+  transition: background-color 500ms, color 500ms;
 }
 
 #note:hover {
-background-color: #F5D74F;
-color: black;
+  background-color: #F5D74F;
+  color: black;
+}
