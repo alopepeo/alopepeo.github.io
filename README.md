@@ -1,4 +1,4 @@
-<h2>Ardesign</h2>
+<h2>Forward Design</h2>
 
 Site focused on unifying mockups for different projects
 
